@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Article({description, image, title, price,tag}) {
     return (
         <article >
