@@ -1,3 +1,5 @@
+import React from "react";
+
 function Button ({boolean, tekst}) {
     return (
         <button
